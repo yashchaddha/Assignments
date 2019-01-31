@@ -1,0 +1,25 @@
+/*carousel styling*/
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+#section2{
+    margin-right: 0px;
+    width:100%;
+}
+#section1 img{
+    height: 150px;
+}
+#yash{
+    width: 100%;
+}
+#harsh{
+    width:100%;
+}
+#footer{
+    -webkit-text-fill-color: white;
+}
+.footer1 img{
+    height: 30px;
+    width: 30px;
+}
